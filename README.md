@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashish05122004](https://github.com/Ashish05122004)
+- 👨‍💻 All of my projects are available at [https://github.com/Ashish05122004](https://github.com/Ashish05122004?tab=repositories)
 
 - 💬 Ask me about **Java,React and DSA**
 
